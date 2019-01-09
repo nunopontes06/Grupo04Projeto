@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Multi Servicos</string>
+    <string name="intro_first_line">Bricolage, Carpintaria, Culinaria e  Limpezas</string>
+    <string name="intro_second_line">"Contrate o seu servico"</string>
+
+    <string name="servicosbricolage">Os serviços de bricolage abrangem uma ampla gama de pequenos projectos domésticos,
+        tais como reparos, instalações, manutenção, montagem de móveis, pintura e limpeza. As pessoas que fazem este tipo de trabalho podem ser
+        profissionais individuais ou trabalhar como parte de uma empresa. São vários os factores afectam o preço de um serviço de bricolage,
+        sendo que a maioria dos profissionais dá uma estimativa depois de ver o projecto pessoalmente. Ainda assim, o custo médio para um serviço
+        de bricolage, que pode variar dependendo da sua área e detalhes do projecto, é de 10€/h.
+    </string>
+
+    <string name="servicoscarpintaria">Realizamos todos os serviços específicos de remodelações e obras para a sua casa,executa também todos os serviços de carpintaria.
+        Portas interiores, roupeiros, armários, forros de tecto, escadas em madeira, degraus para acesso a banheira, biombos, pisos, portadas e móveis à medida são alguns exemplos dos serviços de carpintaria que temos ao seu dispor.
+        Se necessita de um serviço de carpintaria, não hesite em contactar-nos! Solicite uma visita gratuita de um Técnico URBAN através da linha de atendimento nacional ou email.
+    </string>
+
+    <string name="servicoslimpeza">Dispomos de uma diversificada gama de serviços dedicados inteiramente às limpezas de manutenção e de profundidade, dependendo de cada caso.
+
+Limpeza Doméstica, Limpeza de Escritórios, Limpeza de Garagens, Limpeza de Fachadas, Limpeza de Escolas, Limpeza Pós Obra, Limpeza de Áreas Comerciais e Lojas, Limpeza de Agências Bancárias, Limpeza de Hotéis, Limpeza de Fábricas e Armazéns, Limpeza de Alcatifas e Tapetes, Limpeza de Clínicas e Consultórios, Limpeza de Pavilhões, Limpeza de Pavimentos, Limpeza de Empresas, Limpeza Pós Eventos e Tratamento de Pisos.</string>
+
+    <string name="btn_login">Inicio da sessao do utilizador</string>
+    <string name="btn_user_signup">Novo utilizador? Registar aqui!</string>
+    <string name="btn_servicos">Servicos Disponiveis</string>
+    <string name="enter_email">Introduzir email</string>
+    <string name="enter_password">Introduzir password</string>
+    <string name="user_login">INICIAR A SESSAO</string>
+    <string name="registration_message">Novo utilizador</string>
+    <string name="first_name">Primeiro nome</string>
+    <string name="last_name">Ultimo nome</string>
+    <string name="email_address">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirmar password</string>
+    <string name="contact_number">Contacto</string>
+    <string name="btn_register">Registar</string>
+    <string name="btn_bricolage">Bricolage</string>
+    <string name="btn_carpintaria">Carpintaria</string>
+    <string name="btn_limpezas">Limpezas</string>
+</resources>
